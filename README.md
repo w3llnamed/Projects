@@ -14,4 +14,6 @@
 К сожалению, на GitHub нельзя сделать доверенным Jupyter Notebook, в связи с чем нет возможности просматривать интерактивные карты и графики `plotly`. Решением является просмотр проектов 1 и 4 на платформе nbviewer.org:
 
 1. https://nbviewer.org/github/w3llnamed/Projects/blob/main/visualization/visualization.ipynb
+2. https://nbviewer.org/github/w3llnamed/Projects/blob/main/bank_churn_analysis/bank_churn_analysis.ipynb
+3. https://nbviewer.org/github/w3llnamed/Projects/blob/main/sql_query/sql_query.ipynb
 4. https://nbviewer.org/github/w3llnamed/Projects/blob/main/ab_test/ab_test.ipynb
