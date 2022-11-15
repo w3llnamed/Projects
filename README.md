@@ -9,4 +9,4 @@
 2. Анализ оттока клиентов банка "Скрудж"
 3. Создание запросов к реляционной базе данных с помощью PostgreSQL
 4. Визуализация данных для "Shut Up and Take My Money" (визуальный анализа мест общественного питания Москвы)
-    *к сожалению, на GitHub нельзя сделать доверенным Jupyter Notebook, в связи с чем нет возможности просматривать интерактивные карты. Решением является просмтор проекта на платформе nbviewer.org [https://nbviewer.org/github/w3llnamed/Projects/blob/main/visualization/visualization.ipynb]
+    *к сожалению, на GitHub нельзя сделать доверенным Jupyter Notebook, в связи с чем нет возможности просматривать интерактивные карты. Решением является просмотр проекта на платформе nbviewer.org [https://nbviewer.org/github/w3llnamed/Projects/blob/main/visualization/visualization.ipynb]
