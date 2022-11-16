@@ -18,3 +18,4 @@
 3. [Создание запросов к реляционной базе данных с помощью PostgreSQL] (https://nbviewer.org/github/w3llnamed/Projects/blob/main/sql_query/sql_query.ipynb)
 4. [Визуальный анализ данных для "Shut Up and Take My Money"] (https://nbviewer.org/github/w3llnamed/Projects/blob/main/visualization/visualization.ipynb)
 
+[Подробнее о Markdown по ссылке](https://daringfireball.net/projects/markdown/)
