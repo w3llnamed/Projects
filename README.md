@@ -18,4 +18,22 @@
 1. [Анализ результатов A/B-теста для стартапа](https://nbviewer.org/github/w3llnamed/Projects/blob/main/ab_test/ab_test.ipynb "nbviewer.org")
 2. [Анализ оттока клиентов банка "Скрудж"](https://nbviewer.org/github/w3llnamed/Projects/blob/main/bank_churn_analysis/bank_churn_analysis.ipynb "nbviewer.org") 
 3. [Создание запросов к реляционной базе данных с помощью `PostgreSQL`](https://nbviewer.org/github/w3llnamed/Projects/blob/main/sql_query/sql_query.ipynb "nbviewer.org") 
-4. [Анализ мест общественного питания и его визуализация для "Shut Up and Take My Money"](https://nbviewer.org/github/w3llnamed/Projects/blob/main/visualization/visualization.ipynb "nbviewer.org") 
+4. [Анализ мест общественного питания и его визуализация для "Shut Up and Take My Money"](https://nbviewer.org/github/w3llnamed/Projects/blob/main/visualization/visualization.ipynb "nbviewer.org")
+
+## Используемый стек
+
+1. Библиотеки `Python`:
+    * `matplotlib`
+    * `numpy`
+    * `seaborn`
+    * `folium`
+    * `textwrap`
+    * `datetime`
+    * `plotly`
+    * `math`
+    * `scipy`
+    * `phik`
+    * `sqlalchemy`
+    * `folium`
+    * `textwrap`
+2. `PostgreSQL`
