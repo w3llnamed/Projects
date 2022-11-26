@@ -8,7 +8,7 @@
 
 ### Примечание 
 
-К сожалению, на GitHub нельзя сделать доверенным `Jupyter Notebook`, в связи с чем нет возможности просматривать интерактивные графики из пакета `plotly`. Решением является просмотр проекта на платформе [nbviewer](https://nbviewer.org/github/w3llnamed/Projects/blob/main/ab_test/ab_test.ipynb "nbviewer.org"):
+К сожалению, на GitHub нельзя сделать доверенным `Jupyter Notebook`, в связи с чем нет возможности просматривать интерактивные графики из пакета `plotly`. Решением является просмотр проекта на платформе [nbviewer](https://nbviewer.org/github/w3llnamed/Projects/blob/main/ab_test/ab_test.ipynb "nbviewer.org")
 
 ## Цель проекта
 
