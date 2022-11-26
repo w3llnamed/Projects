@@ -12,7 +12,7 @@
 4. Визуальный анализ данных для "Shut Up and Take My Money" (визуальный анализа мест общественного питания Москвы)
 
 
-К сожалению, на GitHub нельзя сделать доверенным `Jupyter Notebook`, в связи с чем нет возможности просматривать интерактивные карты из пакета `folium` и графики из пакета `plotly`. Решением является просмотр проектов 1 и 4 на платформе nbviewer.org:
+К сожалению, на GitHub нельзя сделать доверенным `Jupyter Notebook`, в связи с чем нет возможности просматривать интерактивные карты из пакета `folium` и графики из пакета `plotly`. Решением является просмотр проектов 1 и 4 на платформе <nbviewer.org>:
 
 1. [Анализ результатов A/B - теста для стартапа](https://nbviewer.org/github/w3llnamed/Projects/blob/main/ab_test/ab_test.ipynb "nbviewer.org")
 2. [Анализ оттока клиентов банка "Скрудж"](https://nbviewer.org/github/w3llnamed/Projects/blob/main/bank_churn_analysis/bank_churn_analysis.ipynb"nbviewer.org") 
