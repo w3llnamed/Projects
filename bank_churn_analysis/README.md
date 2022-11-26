@@ -13,30 +13,29 @@
 ## Используемый стек
 
 Библиотеки `Python`:
-import pandas as pd
-import matplotlib.pyplot as plt
-import matplotlib as mpl
-import seaborn as sns
-import phik
-from phik.report import plot_correlation_matrix
-from phik import report
-import numpy as np
-from scipy import stats
-from sklearn.linear_model import LinearRegression
+* `pandas`
+* `matplotlib`
+* `phik`
+* `numpy`
+* `scipy`
+
 
 ## Задачи
 
-1. Импортировать датасет и изучить общую информацию
-2. Подготовить данные
-3. Изучить и проверить корректность данных
-4. Изучить воронку событий
-5. Изучить результаты эксперимента
+1. Провести исследовательский анализ данных
+2. Выделить сегменты клиентов, которые уходят
 
 ## Датасет
 
-* `EventName` — название события
-* `DeviceIDHash` — уникальный идентификатор пользователя
-* `EventTimestamp` — время события
-* `ExpId` — номер эксперимента
-    * `246` и `247` — контрольные группы
-    * `248` — экспериментальная
+- userid — идентификатор пользователя,
+- score — баллы кредитного скоринга,
+- city — город,
+- gender — пол,
+- age — возраст,
+- equity — приблизительная оценка собственности клиента,
+- balance — баланс на счёте,
+- products — количество продуктов, которыми пользуется клиент,
+- credit_card — есть ли кредитная карта,
+- last_activity — был ли клиент активен последнее время,
+- salary — заработная плата клиента
+- churn — уходит или нет.
