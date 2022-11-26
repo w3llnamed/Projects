@@ -9,14 +9,14 @@
 ## Используемый стек
 
 Библиотеки `Python`:
-      * `pandas`
-      * `numpy`
-      * `datetime`
-      * `matplotlib`
-      * `seaborn`
-      * `plotly`
-      * `math`
-      * `scipy`
+* `pandas`
+* `numpy`
+* `datetime`
+* `matplotlib`
+* `seaborn`
+* `plotly`
+* `math`
+* `scipy`
 
 ## Задачи
 
