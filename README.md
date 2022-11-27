@@ -37,3 +37,4 @@
     * `folium`
     * `textwrap`
 2. `PostgreSQL`
+3. `Tableau`
