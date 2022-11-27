@@ -18,6 +18,7 @@
     * `phik`
     * `numpy`
     * `scipy`
+    * `sklearn`
 2. `Tableau`
 
 ## Задачи
